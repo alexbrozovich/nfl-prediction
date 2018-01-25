@@ -1,0 +1,2 @@
+# nfl-prediction
+Work in progress for predicting the results of a hypothetical NFL game played between any two given teams. Currently, it takes statistics from a game that has already been played, guesses the score of that game based on those statistics, and compares its prediction to the actual results of the game. Which, unfortunately, is pretty worthless. Hopefully, however, this will help to lay the groundwork to develop a predictive model that can determine the results of an NFL game with some degree of accuracy. 
